@@ -1,25 +1,27 @@
-### 안녕하세요 개발조무사 한민재입니다.🙇🏻‍♂️
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FsangryPodo)](https://hits.seeyoufarm.com)
 <!--
-**angryPodo/angryPodo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 Welcome angrypodo's github &nbsp;&nbsp;
+-->    
+ 
+   <div align=center>
+	
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fangrypodo&count_bg=%235C6BC0&title_bg=%23B8BEEF&icon=smugmug.svg&icon_color=%23000000&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+  ![followers](https://img.shields.io/github/followers/angrypodo?style=social)
+	
+  </div>
 
-Here are some ideas to get you started:
+<h3 align="center"><b>🛠 Tech Stack 🛠</b><br></h3>
+<h5 align="center">Techs that I've used at least once</h5>
+<p align="center"> 
+  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"></a> &nbsp 
+  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"></a> &nbsp 
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/></a> &nbsp 
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white"/></a> &nbsp
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/></a> &nbsp
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black"/></a> &nbsp
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align=center>
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=angryPodo&show_icons=true&hide_border=true)](https://github.com/angryPodo)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angryPodo&layout=compact)](https://github.com/angryPodo)
-
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=angrypodo&show_icons=true&theme=graywhite)](https://github.com/angrypodo/github-readme-stats)
+  
+</div>

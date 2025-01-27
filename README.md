@@ -1,13 +1,13 @@
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi%20There%20👋&fontSize=90&animation=fadeIn)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Hi%20There%20👋&fontSize=90&animation=fadeIn)
   
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fangrypodo&count_bg=%235C6BC0&title_bg=%23B8BEEF&icon=smugmug.svg&icon_color=%23000000&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
   ![followers](https://img.shields.io/github/followers/angrypodo?style=social)
 
   ### 🌱 Growing Android Developer 🌱
   
-  <a href="mailto:your.hanminjae131@gmail.com">
+  <a href="mailto:hanminjae131@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white"/>
   </a>
   

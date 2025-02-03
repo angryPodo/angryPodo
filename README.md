@@ -7,24 +7,6 @@
 
   ### 🌱 Growing Android Developer 🌱
   
-  <a href="mailto:hanminjae131@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white"/>
-  </a>
-  
-</div>
-
----
-
-<div align="center">
-  
-### 🚀 Tech Journey 🚀
-
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white"/>
 </div>
 
 <br>
@@ -32,6 +14,7 @@
 <h3 align="center">📱 Mobile Development 📱</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/> &nbsp
+   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white"/> &nbsp
   <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white"/> &nbsp
 </div>
 
@@ -54,19 +37,13 @@
 
 <br>
 
----
-
 <div align="center">
   
 ### 📊 GitHub Stats 📊
 
 <img src="https://github-readme-stats.vercel.app/api?username=angrypodo&show_icons=true&theme=tokyonight&hide_border=true" />
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=angrypodo&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
 </div>
-
----
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer" width="100%"/>

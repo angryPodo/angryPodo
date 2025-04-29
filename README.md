@@ -2,8 +2,6 @@
   
 
   ![followers](https://img.shields.io/github/followers/angrypodo?style=social)
-
-  ### 🌱 Growing Android Developer 🌱
   
 </div>
 

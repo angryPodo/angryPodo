@@ -1,8 +1,5 @@
 <div align="center">
-  
-
-  ![followers](https://img.shields.io/github/followers/angrypodo?style=social)
-  
+  ![Image](https://github.com/user-attachments/assets/f0fc9214-3659-4e36-b840-ae26443ef4cf)
 </div>
 
 <br>

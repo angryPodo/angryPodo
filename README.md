@@ -1,5 +1,7 @@
 <div align="center">
-  ![Image](https://github.com/user-attachments/assets/f0fc9214-3659-4e36-b840-ae26443ef4cf)
+  <img src="https://github.com/USERNAME/REPOSITORY/blob/main/assets/my-animation.gif?raw=true" width="400"/>
+
+
 </div>
 
 <br>

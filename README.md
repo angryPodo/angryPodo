@@ -2,7 +2,7 @@
 
 ### **Career**
 
-- [Algoroutine](https://play.google.com/store/apps/details?id=com.algoroutine.vivrato) - Android Engineer (Freelance) `2025.03 – 2025.06`
+- [Vivrato](https://play.google.com/store/apps/details?id=com.algoroutine.vivrato) - Android Engineer (Freelance) `2025.03 – 2025.06`
 
 ### **Open Source**
 

@@ -1,11 +1,21 @@
-<p align="center">
-  <img width="600" src="https://github.com/user-attachments/assets/b282adc3-7b7e-4271-b547-755f95c0e398" alt="demo gif"/>
-</p>
+### 안드로이드 개발하는 포도입니다.
 
+### **Career**
 
+- [Algoroutine](https://play.google.com/store/apps/details?id=com.algoroutine.vivrato) - Android Engineer (Freelance) `2025.03 – 2025.06`
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white"/>
-</p>
+### **Open Source**
+
+- Contributor - [droidknights/DroidKnightsApp](https://github.com/droidknights/DroidKnightsApp/pull/484)
+- Contributor - [chattymin/Pebble](https://github.com/chattymin/Pebble/pull/1)
+
+### **Speaker**
+
+- **[SOPT](https://www.sopt.org/)** - Mininar  
+    - Jetpack Navigation with Type Safety ([Notion](https://www.notion.so/JetPack-Navigation-with-Type-Safety-17bb97a976b480c69913f49ee0e02e94?pvs=21))
+
+### **Experience**
+
+- **[SOPT Makers](https://makers.sopt.org/)** 6th App Team / Android Developer `2025.02 - Present`
+- **[SOPT](https://sopt.org/)** 36th Android Part OB `2025.03 - 2025.07`
+- **[SOPT](https://sopt.org/)** 35th Android Part YB `2024.09 - 2025.02`

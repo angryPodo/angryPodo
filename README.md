@@ -11,7 +11,7 @@
 
 ### **Speaker**
 
-- **[SOPT](https://www.sopt.org/)** - Mininar  
+- **[SOPT 36th](https://www.sopt.org/)** - Mininar  
     - Jetpack Navigation with Type Safety ([Notion](https://www.notion.so/JetPack-Navigation-with-Type-Safety-17bb97a976b480c69913f49ee0e02e94?pvs=21))
 
 ### **Experience**

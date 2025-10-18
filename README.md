@@ -17,6 +17,6 @@
 
 ### **Experience**
 
-- **[SOPT Makers](https://makers.sopt.org/)** 6th App Team / Android Developer `2025.02 - 2025.09`
+- **[SOPT Makers](https://makers.sopt.org/)** 36th App Team / Android Developer `2025.02 - 2025.09`
 - **[SOPT](https://sopt.org/)** 36th Android Part OB `2025.03 - 2025.08`
 - **[SOPT](https://sopt.org/)** 35th Android Part YB `2024.09 - 2025.02`

@@ -4,6 +4,11 @@
 
 - [Vivrato](https://play.google.com/store/apps/details?id=com.algoroutine.vivrato) - Android Engineer (Freelance) `2025.03 – 2025.06`
 
+### Project
+- Android - [하이링구얼](https://github.com/Hi-lingual/Hilingual-Android) : AI 피드백으로 완성하는 나만의 영어 일기 서비스
+- Android - [Spoony](https://github.com/spooooony/Spoony-Android) : 장소의 찐 리스트를 공유하며 신뢰할 수 있는 추천으로 나만의 지도를 완성하는 앱 서비스
+- Android - [SOPT](https://github.com/sopt-makers/sopt-android) : 국내 최대 IT 벤처창업동아리 SOPT의 공식 Android 앱
+
 ### **Open Source**
 
 - Contributor - [droidknights/DroidKnightsApp](https://github.com/droidknights/DroidKnightsApp/pull/484)

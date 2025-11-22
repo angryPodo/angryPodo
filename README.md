@@ -16,9 +16,12 @@
 - Contributor - [chattymin/Pebble](https://github.com/chattymin/Pebble/pull/1)
 
 ### **Speaker**
+### 2025
+- **[SOPT 37th Android](https://www.sopt.org/)**
+    - 문법 너머의 구조: 코루틴 제대로 지배하기 ([발표자료](https://drive.google.com/file/d/1SwrtUG4SuHHurwXputlJ35yXKPY8SS5E/view?usp=sharing))
 
-- **[SOPT 36th](https://www.sopt.org/)** - Mininar  
-    - Jetpack Navigation with Type Safety ([Notion](https://www.notion.so/JetPack-Navigation-with-Type-Safety-17bb97a976b480c69913f49ee0e02e94?pvs=21))
+- **[SOPT 36th Android](https://www.sopt.org/)**
+    - Jetpack Navigation with Type Safety ([발표자료](https://www.notion.so/JetPack-Navigation-with-Type-Safety-17bb97a976b480c69913f49ee0e02e94?pvs=21))
 
 ### **Experience**
 

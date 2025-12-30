@@ -14,6 +14,7 @@
 - Contributor - [droidknights/DroidKnightsApp](https://github.com/droidknights/DroidKnightsApp/pull/484)
 - Contributor - [DroidKaigi/conference-app-2025](https://github.com/DroidKaigi/conference-app-2025/pull/296)
 - Contributor - [chattymin/Pebble](https://github.com/chattymin/Pebble/pull/1)
+- Contributor - [l2hyunwoo/compose-camera](https://github.com/l2hyunwoo/compose-camera/pull/34)
 
 ### Speaker
 

@@ -10,6 +10,7 @@
 - Android - [SOPT](https://github.com/sopt-makers/sopt-android) : 국내 최대 IT 벤처창업동아리 SOPT의 공식 Android 앱
 
 ### **Open Source Project**
+- Maintainer - [angrypodo/wisp](https://github.com/angryPodo/Wisp)
 
 - Contributor - [droidknights/DroidKnightsApp](https://github.com/droidknights/DroidKnightsApp/pull/484)
 - Contributor - [DroidKaigi/conference-app-2025](https://github.com/DroidKaigi/conference-app-2025/pull/296)
@@ -20,11 +21,9 @@
 
 **2025**
 
-**SOPT 37th - Android**
-- 문법 너머의 구조: 코루틴 제대로 지배하기 - [발표자료](https://drive.google.com/file/d/1SwrtUG4SuHHurwXputlJ35yXKPY8SS5E/view?usp=sharing)
+**SOPT 37th**: 문법 너머의 구조: 코루틴 제대로 지배하기 - [발표자료](https://drive.google.com/file/d/1SwrtUG4SuHHurwXputlJ35yXKPY8SS5E/view?usp=sharing)
 
-**SOPT 36th - Android**
-- Jetpack Navigation with Type Safety - [발표자료](https://www.notion.so/JetPack-Navigation-with-Type-Safety-17bb97a976b480c69913f49ee0e02e94?pvs=21)
+**SOPT 36th**: Jetpack Navigation with Type Safety - [발표자료](https://www.notion.so/JetPack-Navigation-with-Type-Safety-17bb97a976b480c69913f49ee0e02e94?pvs=21)
 
 ### Experience
 [**SOPT Makers**](https://makers.sopt.org/) | 36th App Team Android Developer

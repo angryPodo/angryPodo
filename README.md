@@ -19,8 +19,8 @@
 - **SOPT 36th** : [Jetpack Navigation with Type Safety](https://www.notion.so/JetPack-Navigation-with-Type-Safety-17bb97a976b480c69913f49ee0e02e94?pvs=21) `2025`
 
 ### Projects
-- [하이링구얼](https://github.com/Hi-lingual/Hilingual-Android) : AI 영어 일기 서비스 (Hilt, Coroutines)
-- [Spoony](https://github.com/spooooony/Spoony-Android) : 신뢰 기반 맛집 지도 (Naver Map SDK, MVI)
+- [하이링구얼](https://github.com/Hi-lingual/Hilingual-Android) : AI 영어 일기 서비스
+- [Spoony](https://github.com/spooooony/Spoony-Android) : 신뢰 기반 맛집 지도
 - [SOPT](https://github.com/sopt-makers/sopt-android) : SOPT 공식 커뮤니티 앱
 
 ### Experience

@@ -8,6 +8,7 @@
 ### Open Source Project
 
 Maintainer - <a href="https://github.com/angryPodo/Wisp">angrypodo/wisp</a><br>
+
 Contributor - <a href="https://github.com/droidknights/DroidKnightsApp/pull/484">droidknights/DroidKnightsApp</a><br>
 Contributor - <a href="https://github.com/DroidKaigi/conference-app-2025/pull/296">DroidKaigi/conference-app-2025</a><br>
 Contributor - <a href="https://github.com/chattymin/Pebble/pull/1">chattymin/Pebble</a><br>

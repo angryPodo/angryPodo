@@ -14,8 +14,7 @@
 
 ### Work Experience
 
-<b>Vivrato</b> (Freelance) | <code>2025.03 – 2025.06</code><br>
-&nbsp;&nbsp;- Android Developer
+<b>Vivrato</b> | Android Developer · <code>2025.03 – 2025.06</code><br>
 
 ### Open Source Project
 
@@ -34,7 +33,7 @@ Contributor - <a href="https://github.com/l2hyunwoo/compose-camera/pull/34">l2hy
 ### Projects
 
 <a href="https://github.com/Hi-lingual/Hilingual-Android"><b>하이링구얼</b></a> : AI 영어 일기 서비스 <code>ing</code><br>
-<a href="https://github.com/sopt-makers/sopt-android"><b>SOPT</b></a> : SOPT 공식 커뮤니티 앱 <code>ing</code><br> 
+<a href="https://github.com/sopt-makers/sopt-android"><b>SOPT</b></a> : SOPT 공식 커뮤니티 앱 <code>ing</code><br>
 <a href="https://github.com/spooooony/Spoony-Android"><b>Spoony</b></a> : 신뢰 기반 맛집 지도<br>
 
 ### Experience

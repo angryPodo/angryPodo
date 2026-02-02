@@ -37,3 +37,9 @@
 <a href="https://makers.sopt.org/"><b>SOPT Makers</b></a> | 36th App Team Android Developer <code>2025.02 - 2025.09</code><br>
 <a href="https://sopt.org/"><b>SOPT</b></a> | 36th Android Part OB <code>2025.03 - 2025.08</code><br>
 <a href="https://sopt.org/"><b>SOPT</b></a> | 35th Android Part YB <code>2024.09 - 2025.02</code>
+
+<p align="center">
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/angrypodo"/>
+</a>
+</p>

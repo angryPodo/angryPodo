@@ -3,7 +3,7 @@
 [![Tistory](https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white)](https://angrypodo.tistory.com/) [![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:hanminjae131@gmail.com)
 
 - '왜?'라는 질문을 통해 코드의 근거를 찾고, 본질적인 문제를 해결합니다.
-- 복사 붙여넣기가 아닌, 명확한 이유가 있는 코드를 작성하는 것을 지향합니다.
+- 이유없는 복사 붙여넣기가 아닌, 명확한 이유가 있는 코드를 작성하는 것을 지향합니다.
 
 #### Tech Stack
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=JetpackCompose&logoColor=white"/> <img src="https://img.shields.io/badge/Coroutines-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>

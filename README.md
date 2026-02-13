@@ -10,7 +10,7 @@
 
 ### Work Experience
 
-<b>Vivrato</b> | Android Developer <code>2025.03 – 2025.06</code><br>
+<b>Vivrato</b> | Android Developer(freelance) <code>2025.03 – 2025.06</code><br>
 
 ### Open Source Project
 

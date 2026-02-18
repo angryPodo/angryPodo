@@ -31,7 +31,7 @@
 <b>SOPT 36th</b> | <a href="https://www.notion.so/JetPack-Navigation-with-Type-Safety-17bb97a976b480c69913f49ee0e02e94?pvs=21">Jetpack Navigation with Type Safety</a> <code>2025</code>
 
 ### Projects
-<a href="https://github.com/Hi-lingual/Hilingual-Android"><b>하이링구얼</b></a> | AI 영어 일기 서비스 <code>In Progress</code><br>
+<a href="https://github.com/Hi-lingual/Hilingual-Android"><b>Hilingual</b></a> | AI 영어 일기 서비스 <code>In Progress</code><br>
 <a href="https://github.com/sopt-makers/sopt-android"><b>SOPT</b></a> | SOPT 공식 커뮤니티 앱 <code>2025</code><br>
 <a href="https://github.com/spooooony/Spoony-Android"><b>Spoony</b></a> | 신뢰 기반 맛집 지도 <code>2024 - 2025</code><br>
 

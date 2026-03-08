@@ -1,4 +1,4 @@
-# 한민재(Han Minjae)
+# 안드로이드 개발하는 한민재(아키)입니다.
 
 **Android Developer**
 

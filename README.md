@@ -21,6 +21,7 @@
 <b>Maintainer</b> | <a href="https://github.com/angryPodo/Wisp">angrypodo/wisp</a><br>
 
 <b>Contributor</b> | <a href="https://github.com/droidknights/DroidKnightsApp/pull/484">droidknights/DroidKnightsApp</a><br>
+<b>Contributor</b> | <a href="https://github.com/DroidKaigi/conference-app-2026/pull/136">DroidKaigi/conference-app-2026</a><br>
 <b>Contributor</b> | <a href="https://github.com/DroidKaigi/conference-app-2025/pull/296">DroidKaigi/conference-app-2025</a><br>
 <b>Contributor</b> | <a href="https://github.com/chattymin/Pebble/pull/1">chattymin/Pebble</a><br>
 <b>Contributor</b> | <a href="https://github.com/l2hyunwoo/compose-camera/pull/34">l2hyunwoo/compose-camera</a>

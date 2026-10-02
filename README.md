@@ -14,7 +14,6 @@
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 
 ### Work Experience
-<b>AIZ Entertainment</b> | Android Engineer(intern) <code>2026.05 – 2026.08</code><br>
 <b>Vivrato</b> | Android Developer(freelance) <code>2025.03 – 2025.06</code><br>
 
 ### Open Source Project

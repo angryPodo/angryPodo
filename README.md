@@ -14,6 +14,7 @@
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 
 ### Work Experience
+<b>AIZ Entertainment</b> | Android Engineer(intern) <code>2026.05 – 2026.08</code><br>
 <b>Vivrato</b> | Android Developer(freelance) <code>2025.03 – 2025.06</code><br>
 
 ### Open Source Project
@@ -23,8 +24,7 @@
 <b>Contributor</b> | <a href="https://github.com/droidknights/DroidKnightsApp/pull/484">droidknights/DroidKnightsApp</a><br>
 <b>Contributor</b> | <a href="https://github.com/DroidKaigi/conference-app-2026/pull/136">DroidKaigi/conference-app-2026</a><br>
 <b>Contributor</b> | <a href="https://github.com/DroidKaigi/conference-app-2025/pull/296">DroidKaigi/conference-app-2025</a><br>
-<b>Contributor</b> | <a href="https://github.com/chattymin/Pebble/pull/1">chattymin/Pebble</a><br>
-<b>Contributor</b> | <a href="https://github.com/l2hyunwoo/compose-camera/pull/34">l2hyunwoo/compose-camera</a>
+<b>Contributor</b> | <a href="https://github.com/chattymin/Pebble/pull/1">chattymin/Pebble</a>
 
 ### Speaker
 
@@ -38,6 +38,7 @@
 
 ### Community
 
+<a href="https://www.woowacourse.io/"><b>우아한테크코스</b></a> | 8th Android <code>2026.03 - In Progress</code><br>
 <a href="https://makers.sopt.org/"><b>SOPT Makers</b></a> | 36th App Team Android Developer <code>2025.02 - 2025.09</code><br>
 <a href="https://sopt.org/"><b>SOPT</b></a> | 36th Android Part OB <code>2025.03 - 2025.08</code><br>
 <a href="https://sopt.org/"><b>SOPT</b></a> | 35th Android Part YB <code>2024.09 - 2025.02</code>

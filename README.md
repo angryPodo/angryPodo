@@ -1,5 +1,3 @@
-# 개발자 한민재(아키)입니다.
-
 **Android Developer**
 
 [![Blog](https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Tistory&logoColor=white)](https://angrypodo.tistory.com/)
